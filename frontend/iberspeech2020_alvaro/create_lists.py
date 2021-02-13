@@ -113,7 +113,8 @@ def make_lists(samples, export_dir, counter=0, test=False):
 		if "dev-" in name:
 			name = name.replace('dev-', '')
 		vec = make_vec(sample[2])
-		if name != "null"	# Uncomment for systems A and B
+		if name != "null"	
+		# Uncomment for systems A and B
 		if i - 2 < 0 or program != get_name(samples[i-2][1]):
 			min2 = numpy.zeros(512)
 		else:
