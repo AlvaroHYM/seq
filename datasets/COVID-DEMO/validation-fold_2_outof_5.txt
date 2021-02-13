@@ -1,0 +1,62 @@
+00001	acudir_dentista	dentista abierta?	sample number 00001
+00006	acudir_dentista	dentista	sample number 00006
+00011	acudir_hospital	En fase 0 puede viajar un matrimonio para ir al hospital?	sample number 00011
+00016	acudir_hospital	Se puede ir al hospital	sample number 00016
+00021	acudir_hospital	saludo. Para ir a un hospital cuáles son las prioridades?	sample number 00021
+00026	acudir_hospital	saludo, los hospital atienden?	sample number 00026
+00031	acudir_hospital	Los hospital nos están dando larga aún sabiendo que tenemos sintomas?	sample number 00031
+00036	acudir_hospital	cuando ir a hospital	sample number 00036
+00041	acudir_hospital	hospital	sample number 00041
+00046	acudir_hospital	Otras hospital	sample number 00046
+00051	acudir_hospital	Cuando tengo que ir al hospital?	sample number 00051
+00056	acudir_hospital	Cuando acudir al hospital?	sample number 00056
+00061	acudir_hospital	debo ir a hospital?	sample number 00061
+00066	acudir_hospital	saludo se puede ir a hospital con un menor?	sample number 00066
+00071	acudir_hospital	¿Debo ir al hospital?	sample number 00071
+00076	acudir_hospital	acudir al hospital	sample number 00076
+00081	acudir_hospital	Tengo una hospital el fecha, tengo que ir?	sample number 00081
+00086	afecta-viejos-jovenes	sintomas en los jóvenes	sample number 00086
+00091	afecta-viejos-jovenes	¿Afecta solo a las personas de edad avanzada?	sample number 00091
+00096	afecta-viejos-jovenes	¿Afecta la COVID-coronavirus a los jóvenes?	sample number 00096
+00101	aire	Está el coronavirus en el aire?	sample number 00101
+00106	aire	Si respiro aire contaminado me contagio?	sample number 00106
+00111	aire	¿Son importantes las vías respiratorias?	sample number 00111
+00116	aire	el coronavirus se transmite por aire	sample number 00116
+00121	aire	¿Puede transmitirse a través del aire el coronavirus causante de la COVID-coronavirus?	sample number 00121
+00126	aislamiento_casa	Puedo cocinar con coronavirus	sample number 00126
+00131	aislamiento_casa	Aislamiento preventivo mayores de 60 años	sample number 00131
+00136	aislamiento_casa	Como preparar lugar de aislamiento	sample number 00136
+00141	aislamiento_casa	Cómo preparo el lugar de aislamiento?	sample number 00141
+00146	aislamiento_casa	Que medida tomar si los dos padres tienen coronavirus y el menor seguramente también?	sample number 00146
+00151	aislamiento_casa	Mi mujer positivo, yo no	sample number 00151
+00156	aislamiento_casa	¿Todo el mundo puede vivir con una persona aislada?	sample number 00156
+00161	aislamiento_casa	Quienes no pueden convivir con una persona aislada?	sample number 00161
+00166	aislamiento_casa	convivencia aislamiento	sample number 00166
+00171	aislamiento_casa	¿Cómo se vive en aislamiento?	sample number 00171
+00176	aislamiento_casa	Mi mujer tiene coronavirus	sample number 00176
+00181	alimentos	Comer	sample number 00181
+00186	alimentos	Es necesario tomar el sol para poder sintetizar vitamina D?	sample number 00186
+00191	alimentos	Beber	sample number 00191
+00196	alimentos	¿tengo que congelar los alimentos?	sample number 00196
+00201	alimentos	¿Es importante beber agua?	sample number 00201
+00206	alimentos	Recomendaciones nutricionales	sample number 00206
+00211	alimentos	tengo hambre	sample number 00211
+00216	alimentos	¿hay alimentos que pueden prevenir el coronavirus?	sample number 00216
+00221	alta	cuándo dan el alta	sample number 00221
+00226	animales	Desplazamiento para alimentar animales fuera de la provincia	sample number 00226
+00231	animales	mascota	sample number 00231
+00236	animales	mascota	sample number 00236
+00241	animales	Las mascota se pueden contagiar?	sample number 00241
+00246	animales	Mi mascota está malo	sample number 00246
+00251	animales	transmisión animal a humano	sample number 00251
+00256	animales	mascota	sample number 00256
+00261	animales	Transmiten los mosquitos?	sample number 00261
+00266	animales	tengo mascota, ¿puede contagiarse?	sample number 00266
+00271	animales	mascota	sample number 00271
+00276	animales	Los mascota se pueden contagiar	sample number 00276
+00281	animales	Los animales de mascota pueden transmitirlo?	sample number 00281
+00286	animales	Los mascota lo contagian?	sample number 00286
+00291	animales	Pero un humano puede transmitirlo a mascota?	sample number 00291
+00296	animales	¿Puedo contagiar a mi mascota?	sample number 00296
+00301	animales	¿Transmiten la coronavirus los mascota?	sample number 00301
+00306	animales	¿Pueden los humanos contraer el virus de la COVID-coronavirus por contacto con un mascota?	sample number 00306

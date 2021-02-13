@@ -1,0 +1,93 @@
+00305	animales	¿Los animales de mascota transmiten la enfermedad?	dummy_name-305
+00213	alimentos	nutrición	dummy_name-213
+00060	acudir_hospital	Voy al hospital?	dummy_name-60
+00308	animales	¿Los mosquitos transmiten la COVID-coronavirus?	dummy_name-308
+00025	acudir_hospital	hospital	dummy_name-25
+00001	acudir_dentista	dentista abierta?	dummy_name-1
+00296	animales	¿Puedo contagiar a mi mascota?	dummy_name-296
+00043	acudir_hospital	hospital	dummy_name-43
+00159	aislamiento_casa	cuando salga del hospital tengo que estar en aislamiento o puedo mezclarme con la familia?	dummy_name-159
+00232	animales	Adopción de mascota. Traslado mascota	dummy_name-232
+00264	animales	¿pueden infectarse las mascota?	dummy_name-264
+00177	aislamiento_casa	mi mujer tiene coronavirus	dummy_name-177
+00271	animales	mascota	dummy_name-271
+00093	afecta-viejos-jovenes	¿Afecta solo a los viejos?	dummy_name-93
+00255	animales	Los mascota contagian a las personas?	dummy_name-255
+00104	aire	Durante cuánto tiempo permanece el coronavirus suspendido en el aire antes de morir?	dummy_name-104
+00194	alimentos	Una cerveza?	dummy_name-194
+00270	animales	puedo ir al mascota	dummy_name-270
+00095	afecta-viejos-jovenes	Soy joven, ¿me puede afectar el coronavirus?	dummy_name-95
+00221	alta	cuándo dan el alta	dummy_name-221
+00155	aislamiento_casa	¿Quién no puede convivir con una persona aislada?	dummy_name-155
+00251	animales	transmisión animal a humano	dummy_name-251
+00123	aislamiento_casa	Aislamiento	dummy_name-123
+00136	aislamiento_casa	Como preparar lugar de aislamiento	dummy_name-136
+00272	animales	mascota	dummy_name-272
+00260	animales	mascota	dummy_name-260
+00202	alimentos	tengo que congelar la comida?	dummy_name-202
+00217	alimentos	¿se transmite el coronavirus a través de los alimentos?	dummy_name-217
+00113	aire	¿afecta el coronavirus a las vías respiratorias?	dummy_name-113
+00208	alimentos	guisar	dummy_name-208
+00083	acudir_hospital	Puedo acompañar a mi pareja al hospital?	dummy_name-83
+00276	animales	Los mascota se pueden contagiar	dummy_name-276
+00165	aislamiento_casa	como convivir con infectados	dummy_name-165
+00249	animales	casos en mascota	dummy_name-249
+00009	acudir_dentista	dentista	dummy_name-9
+00107	aire	¿Los estornudos lo contagian?	dummy_name-107
+00223	alta	¿cuánto tiempo suelen tardar en dar el alta?	dummy_name-223
+00258	animales	Los mascota pueden enfermar	dummy_name-258
+00267	animales	tengo dos mascota ¿debo preocuparme por ellos?	dummy_name-267
+00103	aire	El coronavirus de contagia por aire?	dummy_name-103
+00273	animales	Pasa el coronavirus a mascota	dummy_name-273
+00192	alimentos	Consejos sobre alimentación	dummy_name-192
+00170	aislamiento_casa	¿Puedo estar en aislamiento con otras personas?	dummy_name-170
+00075	acudir_hospital	acudir a hospital	dummy_name-75
+00006	acudir_dentista	dentista	dummy_name-6
+00071	acudir_hospital	¿Debo ir al hospital?	dummy_name-71
+00033	acudir_hospital	Puedo ir a hacerme una hospital	dummy_name-33
+00017	acudir_hospital	Puedo ir a una cita al hospital con un especialista	dummy_name-17
+00206	alimentos	Recomendaciones nutricionales	dummy_name-206
+00263	animales	Si el coronavirus es una coronavirus de animales	dummy_name-263
+00279	animales	Pueden los mascota morir de coronavirus?	dummy_name-279
+00140	aislamiento_casa	¿Cómo preparo el lugar de aislamiento?	dummy_name-140
+00256	animales	mascota	dummy_name-256
+00278	animales	Pero un humano puede transmitirlo a mascota?	dummy_name-278
+00193	alimentos	¿puedo infectarme al comer comida contagiada?	dummy_name-193
+00303	animales	¿Me lo puede contagiar el mascota?	dummy_name-303
+00089	afecta-viejos-jovenes	A quien afecta el coronavirus?	dummy_name-89
+00032	acudir_hospital	Tengo una consulta el fecha con mi hospital en mi hospital. Tengo que ir?	dummy_name-32
+00196	alimentos	¿tengo que congelar los alimentos?	dummy_name-196
+00157	aislamiento_casa	tenemos que respetar la distancia de un metro también en casa?	dummy_name-157
+00097	afecta-viejos-jovenes	Cuál es el efecto en jóvenes	dummy_name-97
+00259	animales	Tengo mascota	dummy_name-259
+00178	aislamiento_casa	mi mujer tiene coronavirus	dummy_name-178
+00135	aislamiento_casa	Cuando salir de la habitación después del coronavirus	dummy_name-135
+00122	aislamiento_casa	En caso de vivir solo?	dummy_name-122
+00008	acudir_dentista	Puedo acudir al dentista	dummy_name-8
+00229	animales	Montar a caballo	dummy_name-229
+00088	afecta-viejos-jovenes	Afecta a personas jóvenes?	dummy_name-88
+00128	aislamiento_casa	Me aíslo en mi habitación?	dummy_name-128
+00293	animales	Tengo que alimentar a los animales de la mascota ¿corro peligro?	dummy_name-293
+00031	acudir_hospital	Los hospital nos están dando larga aún sabiendo que tenemos sintomas?	dummy_name-31
+00137	aislamiento_casa	Como preparar mi casa para el aislamiento?	dummy_name-137
+00284	animales	¿Mi mascota me lo puede transmitir?	dummy_name-284
+00036	acudir_hospital	cuando ir a hospital	dummy_name-36
+00055	acudir_hospital	Necesito hablar con mi hospital	dummy_name-55
+00011	acudir_hospital	En fase 0 puede viajar un matrimonio para ir al hospital?	dummy_name-11
+00072	acudir_hospital	¿Puedo ir al hospital?	dummy_name-72
+00181	alimentos	Comer	dummy_name-181
+00265	animales	¿pueden contagiarse los animales?	dummy_name-265
+00080	acudir_hospital	Necesito hospital para mi tratamiento	dummy_name-80
+00133	aislamiento_casa	Medidas en las viviendas	dummy_name-133
+00047	acudir_hospital	Necesito hospital, puedo llamar directamente al hospital?	dummy_name-47
+00022	acudir_hospital	¿Cuándo debo ir a hospital?	dummy_name-22
+00099	aire	aire acondicionado	dummy_name-99
+00246	animales	Mi mascota está malo	dummy_name-246
+00182	alimentos	Comida	dummy_name-182
+00092	afecta-viejos-jovenes	¿Afecta solo a los ancianos?	dummy_name-92
+00046	acudir_hospital	Otras hospital	dummy_name-46
+00242	animales	Ratas	dummy_name-242
+00171	aislamiento_casa	¿Cómo se vive en aislamiento?	dummy_name-171
+00219	alta	alta médica	dummy_name-219
+00152	aislamiento_casa	vivo con una persona enferma	dummy_name-152
+00004	acudir_dentista	Puedo ir al dentista?	dummy_name-4

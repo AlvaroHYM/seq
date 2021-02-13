@@ -1,0 +1,183 @@
+00038	acudir_hospital	Cuando debo acudir a un hospital	dummy_name-38
+00148	aislamiento_casa	Tenemos si tenemos un posible caso a casa que hacemos?	dummy_name-148
+00115	aire	aire coronavirus	dummy_name-115
+00120	aire	¿Se transmite por el aire?	dummy_name-120
+00239	animales	Un tigre con coronavirus	dummy_name-239
+00101	aire	Está el coronavirus en el aire?	dummy_name-101
+00134	aislamiento_casa	Un aislado en  la habitación cuanto tiempo tiene que estar	dummy_name-134
+00288	animales	¿Pueden los mascota morir de coronavirus?	dummy_name-288
+00012	acudir_hospital	menor acompañados hospital	dummy_name-12
+00040	acudir_hospital	hospital	dummy_name-40
+00168	aislamiento_casa	Convivir con aislamiento	dummy_name-168
+00282	animales	¿Mi mascota me lo puede pegar?	dummy_name-282
+00224	alta	alta hospitalaria	dummy_name-224
+00180	aislamiento_casa	Tengo que hacer cuarentena si no me hacen la test?	dummy_name-180
+00029	acudir_hospital	Tengo una hospital	dummy_name-29
+00149	aislamiento_casa	saludo. Mi cuñado enfermero fecha ha dado positivo. Tiene anosmia y disguesia. Se preguntan si tiene que limitar el contacto con el resto de la unidad familiar o al poder estar contagiados no hace falta más que el confinamiento?	dummy_name-149
+00200	alimentos	la comida puede contagiarnos	dummy_name-200
+00291	animales	Pero un humano puede transmitirlo a mascota?	dummy_name-291
+00106	aire	Si respiro aire contaminado me contagio?	dummy_name-106
+00076	acudir_hospital	acudir al hospital	dummy_name-76
+00250	animales	transmisión humano a animal	dummy_name-250
+00186	alimentos	Es necesario tomar el sol para poder sintetizar vitamina D?	dummy_name-186
+00187	alimentos	Cuándo hay que tomar suplementos vitamínicos	dummy_name-187
+00052	acudir_hospital	puedo ir a mi hospital?	dummy_name-52
+00119	aire	¿Puedo contagiarme por el aire?	dummy_name-119
+00225	animales	Los mascota transmiten el virus por el pelo?	dummy_name-225
+00163	aislamiento_casa	Convivir con una persona contagiada	dummy_name-163
+00077	acudir_hospital	ir a hospital	dummy_name-77
+00056	acudir_hospital	Cuando acudir al hospital?	dummy_name-56
+00245	animales	Los humanos ¿podemos contagiar a nuestros mascota?	dummy_name-245
+00110	aire	¿Por qué debo cuidar las vías respiratorias?	dummy_name-110
+00290	animales	¿Afecta a las mascota?	dummy_name-290
+00248	animales	murciélago	dummy_name-248
+00266	animales	tengo mascota, ¿puede contagiarse?	dummy_name-266
+00277	animales	Se lo puedo transmitir a mi mascota?	dummy_name-277
+00215	alimentos	¿qué dieta debo seguir?	dummy_name-215
+00044	acudir_hospital	Tengo una hospital el fecha, debo ir?	dummy_name-44
+00039	acudir_hospital	hospital?	dummy_name-39
+00167	aislamiento_casa	Mi compañero está en aislamiento	dummy_name-167
+00042	acudir_hospital	Tengo otros problemas de salud aparte del coronavirus. No hay ningún hospital abierto.	dummy_name-42
+00138	aislamiento_casa	Aislamiento	dummy_name-138
+00183	alimentos	vitamina C	dummy_name-183
+00143	aislamiento_casa	Soy positivo sin sintomas, me tengo que aislar en casa?	dummy_name-143
+00108	aire	aire coronavirus	dummy_name-108
+00087	afecta-viejos-jovenes	Los jóvenes se infectan	dummy_name-87
+00114	aire	Se contagia por el aire?	dummy_name-114
+00150	aislamiento_casa	Como convivir con una persona contagiada?	dummy_name-150
+00014	acudir_hospital	Quiero ir al hospital para trabajar la tarjeta de salud.	dummy_name-14
+00024	acudir_hospital	Asistencia a hospital	dummy_name-24
+00185	alimentos	Es necesario potenciar el consumo de vitamina D para combatir el coronavirus?	dummy_name-185
+00048	acudir_hospital	Los hospital están saturados?	dummy_name-48
+00054	acudir_hospital	¿Puedo pedir cita a mi hospital?	dummy_name-54
+00021	acudir_hospital	saludo. Para ir a un hospital cuáles son las prioridades?	dummy_name-21
+00158	aislamiento_casa	Puedo cocinar si estoy infectado	dummy_name-158
+00174	aislamiento_casa	Mi pareja tiene coronavirus, que hago?	dummy_name-174
+00184	alimentos	vitamina D	dummy_name-184
+00066	acudir_hospital	saludo se puede ir a hospital con un menor?	dummy_name-66
+00064	acudir_hospital	Puedo ir a hospital si me rompo la cadera	dummy_name-64
+00130	aislamiento_casa	Como preparar él lugar de aislamiento?	dummy_name-130
+00030	acudir_hospital	Si tengo un problema ajeno al coronavirus, como romperme una pierna puedo ir al hospital?	dummy_name-30
+00003	acudir_dentista	dentista	dummy_name-3
+00252	animales	Contagio mascota	dummy_name-252
+00306	animales	¿Pueden los humanos contraer el virus de la COVID-coronavirus por contacto con un mascota?	dummy_name-306
+00037	acudir_hospital	hospital	dummy_name-37
+00199	alimentos	alimentación	dummy_name-199
+00198	alimentos	consejos relacionados con alimentación	dummy_name-198
+00172	aislamiento_casa	Criterios para el aislamiento	dummy_name-172
+00117	aire	El coronavirus se contagia por aire?	dummy_name-117
+00212	alimentos	comida	dummy_name-212
+00283	animales	¿Es peligroso acercarse a los mascota?	dummy_name-283
+00013	acudir_hospital	Consulta hospital	dummy_name-13
+00061	acudir_hospital	debo ir a hospital?	dummy_name-61
+00295	animales	¿Lo transmiten los mascota?	dummy_name-295
+00084	acudir_hospital	A que porcentaje debe bajar la saturación para ir al hospital	dummy_name-84
+00034	acudir_hospital	Mi pregunta es la siguiente dentro de unas semanas me tengo que hacer una hospital para ver como va la celiaquía	dummy_name-34
+00131	aislamiento_casa	Aislamiento preventivo mayores de 60 años	dummy_name-131
+00063	acudir_hospital	debo ir a hospital	dummy_name-63
+00190	alimentos	Alimentos	dummy_name-190
+00053	acudir_hospital	Puedo acudir a un hospital?	dummy_name-53
+00195	alimentos	puedo comer queso	dummy_name-195
+00307	animales	¿Si me pica un mosquito me puedo contagiar?	dummy_name-307
+00189	alimentos	suplementos vitamínicos	dummy_name-189
+00241	animales	Las mascota se pueden contagiar?	dummy_name-241
+00035	acudir_hospital	Me aconsejarías que fuese o mejor que lo suspenda y me den la hospital y medico mas tarde o para el año que viene.	dummy_name-35
+00058	acudir_hospital	puedo ir a mi hospital?	dummy_name-58
+00027	acudir_hospital	¿Se puede ir a una hospital?	dummy_name-27
+00153	aislamiento_casa	Se puede uno contagiar a partir de 14 días viviendo con un positivo?	dummy_name-153
+00275	animales	mascota	dummy_name-275
+00145	aislamiento_casa	Tengo el coronavirus, qué hago?	dummy_name-145
+00010	acudir_hospital	Cuándo ir a hospital	dummy_name-10
+00161	aislamiento_casa	Quienes no pueden convivir con una persona aislada?	dummy_name-161
+00237	animales	Contagian el coronavirus los mosquitos?	dummy_name-237
+00166	aislamiento_casa	convivencia aislamiento	dummy_name-166
+00269	animales	llevar a mi mascota al mascota?	dummy_name-269
+00015	acudir_hospital	Ir al hospital	dummy_name-15
+00309	animales	¿Hay peligro con los mosquitos?	dummy_name-309
+00142	aislamiento_casa	SI soy positivo, me tengo que aislar en casa	dummy_name-142
+00247	animales	mascota	dummy_name-247
+00201	alimentos	¿Es importante beber agua?	dummy_name-201
+00231	animales	mascota	dummy_name-231
+00005	acudir_dentista	dentista	dummy_name-5
+00051	acudir_hospital	Cuando tengo que ir al hospital?	dummy_name-51
+00164	aislamiento_casa	convivir con contagiados	dummy_name-164
+00188	alimentos	hay que tomar vitaminas?	dummy_name-188
+00294	animales	¿Se transmite a los mascota?	dummy_name-294
+00079	acudir_hospital	¿Debo ir al hospital?	dummy_name-79
+00197	alimentos	consejos frutas	dummy_name-197
+00175	aislamiento_casa	Mi mujer está enferma	dummy_name-175
+00226	animales	Desplazamiento para alimentar animales fuera de la provincia	dummy_name-226
+00281	animales	Los animales de mascota pueden transmitirlo?	dummy_name-281
+00073	acudir_hospital	traslado al hospital	dummy_name-73
+00299	animales	¿Transmiten la coronavirus los animales de mascota?	dummy_name-299
+00109	aire	¿Por qué mantener una buena higiene de las vías respiratorias?	dummy_name-109
+00203	alimentos	Y la comida?	dummy_name-203
+00207	alimentos	¿Qué debo comer?	dummy_name-207
+00069	acudir_hospital	Cuando ir a hospital	dummy_name-69
+00257	animales	mascota	dummy_name-257
+00274	animales	Se transmite a otros animales	dummy_name-274
+00268	animales	llevo a mi mascota al mascota?	dummy_name-268
+00059	acudir_hospital	dónde me pueden hacer mis hospital?	dummy_name-59
+00304	animales	¿Me lo puede contagiar el mascota?	dummy_name-304
+00146	aislamiento_casa	Que medida tomar si los dos padres tienen coronavirus y el menor seguramente también?	dummy_name-146
+00227	animales	Animales	dummy_name-227
+00218	alimentos	Espárragos	dummy_name-218
+00228	animales	mascota	dummy_name-228
+00090	afecta-viejos-jovenes	mis menor están en peligro	dummy_name-90
+00147	aislamiento_casa	sintomas de la enfermedad, qué no hacer, aislamiento o cómo convivir con una persona contagiada	dummy_name-147
+00007	acudir_dentista	Puedo ir al dentista	dummy_name-7
+00132	aislamiento_casa	Aislamiento domiciliario zonas rurales	dummy_name-132
+00243	animales	Por qué se habla de murciélago	dummy_name-243
+00292	animales	¿Hay peligro con los mascota?	dummy_name-292
+00129	aislamiento_casa	aislamiento	dummy_name-129
+00220	alta	Alta	dummy_name-220
+00151	aislamiento_casa	Mi mujer positivo, yo no	dummy_name-151
+00230	animales	animales	dummy_name-230
+00094	afecta-viejos-jovenes	El nuevo coronavirus, ¿afecta solo a las personas de edad o también puede afectar a las más jóvenes?	dummy_name-94
+00173	aislamiento_casa	duración del aislamiento después de haber mostrado sintomas	dummy_name-173
+00045	acudir_hospital	voy al hospital?	dummy_name-45
+00240	animales	Tigresa	dummy_name-240
+00121	aire	¿Puede transmitirse a través del aire el coronavirus causante de la COVID-coronavirus?	dummy_name-121
+00078	acudir_hospital	¿Cuándo ir a hospital?	dummy_name-78
+00238	animales	Gallinas	dummy_name-238
+00112	aire	¿Qué repercusión tienen las vías respiratorias?	dummy_name-112
+00298	animales	¿Puedo contraer el coronavirus de la COVID-coronavirus por contacto con mi mascota?	dummy_name-298
+00062	acudir_hospital	hospital	dummy_name-62
+00065	acudir_hospital	Puedo pedir cita para mi hospital?	dummy_name-65
+00234	animales	mascota	dummy_name-234
+00210	alimentos	comer	dummy_name-210
+00280	animales	Afecta a las mascota?	dummy_name-280
+00236	animales	mascota	dummy_name-236
+00105	aire	saludo el coronavirus se puede coger por el aire	dummy_name-105
+00297	animales	¿Pueden contraer el coronavirus las mascota?	dummy_name-297
+00057	acudir_hospital	Cuando llamar al hospital?	dummy_name-57
+00302	animales	¿Se pueden contagiar los mascota?	dummy_name-302
+00216	alimentos	¿hay alimentos que pueden prevenir el coronavirus?	dummy_name-216
+00211	alimentos	tengo hambre	dummy_name-211
+00301	animales	¿Transmiten la coronavirus los mascota?	dummy_name-301
+00144	aislamiento_casa	¿Que hago si tengo el coronavirus?	dummy_name-144
+00179	aislamiento_casa	mi mujer está enferma	dummy_name-179
+00141	aislamiento_casa	Cómo preparo el lugar de aislamiento?	dummy_name-141
+00287	animales	Si el coronavirus es una coronavirus de animales, puedo contagiar a mi mascota?	dummy_name-287
+00016	acudir_hospital	Se puede ir al hospital	dummy_name-16
+00156	aislamiento_casa	¿Todo el mundo puede vivir con una persona aislada?	dummy_name-156
+00067	acudir_hospital	puedo pedir cita para mi hospital?	dummy_name-67
+00074	acudir_hospital	hospital	dummy_name-74
+00261	animales	Transmiten los mosquitos?	dummy_name-261
+00253	animales	mascota	dummy_name-253
+00254	animales	contagios en animales	dummy_name-254
+00235	animales	mascota	dummy_name-235
+00244	animales	Conejo mascota contagio	dummy_name-244
+00049	acudir_hospital	puedo llevar a mi menor al hospital?	dummy_name-49
+00160	aislamiento_casa	Todo el mundo puede vivir con una persona aislada?	dummy_name-160
+00100	aire	Cuanto tiempo está el coronavirus en el aire?	dummy_name-100
+00070	acudir_hospital	hospital	dummy_name-70
+00176	aislamiento_casa	Mi mujer tiene coronavirus	dummy_name-176
+00111	aire	¿Son importantes las vías respiratorias?	dummy_name-111
+00018	acudir_hospital	hospital	dummy_name-18
+00068	acudir_hospital	Cuando tengo que ir al hospital?	dummy_name-68
+00086	afecta-viejos-jovenes	sintomas en los jóvenes	dummy_name-86
+00041	acudir_hospital	hospital	dummy_name-41
+00082	acudir_hospital	Quiero cambiar mi hospital con el hospital	dummy_name-82
+00096	afecta-viejos-jovenes	¿Afecta la COVID-coronavirus a los jóvenes?	dummy_name-96
+00127	aislamiento_casa	Se puede cocinar con coronavirus	dummy_name-127

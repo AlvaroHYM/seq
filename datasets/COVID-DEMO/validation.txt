@@ -1,0 +1,33 @@
+00286	animales	Los mascota lo contagian?	dummy_name-286
+00002	acudir_dentista	dentista	dummy_name-2
+00222	alta	condiciones para dar el alta	dummy_name-222
+00019	acudir_hospital	hospital	dummy_name-19
+00233	animales	habéis valorado si los mosquitos pueden ser medio de transmisión del Covid-coronavirus?	dummy_name-233
+00169	aislamiento_casa	¿Cómo afecta el aislamiento a mi familia?	dummy_name-169
+00125	aislamiento_casa	Como preparar mi casa para el aislamiento?	dummy_name-125
+00209	alimentos	cocinar	dummy_name-209
+00026	acudir_hospital	saludo, los hospital atienden?	dummy_name-26
+00050	acudir_hospital	Puedo ir al hospital para cosas que no son el coronavirus?	dummy_name-50
+00162	aislamiento_casa	Que criterios hay que cumplir para vivir con una persona aislada?	dummy_name-162
+00028	acudir_hospital	hospital	dummy_name-28
+00020	acudir_hospital	Visita al hospital	dummy_name-20
+00204	alimentos	Pautas para una buena alimentación	dummy_name-204
+00102	aire	El coronavirus  queda tiempo en suspensión?	dummy_name-102
+00205	alimentos	¿Se puede prevenir el coronavirus con una buena alimentación?	dummy_name-205
+00091	afecta-viejos-jovenes	¿Afecta solo a las personas de edad avanzada?	dummy_name-91
+00098	aire	saludo quiero saber si se puede transmitir por el aire?	dummy_name-98
+00214	alimentos	dieta	dummy_name-214
+00124	aislamiento_casa	Medidas de aislamiento	dummy_name-124
+00118	aire	¿Se contagia por el aire?	dummy_name-118
+00154	aislamiento_casa	¿Todo el mundo puede vivir con una persona aislada?	dummy_name-154
+00300	animales	¿Transmiten la coronavirus los mascota?	dummy_name-300
+00139	aislamiento_casa	Cómo preparar el lugar de aislamiento?	dummy_name-139
+00289	animales	¿Los mascota lo contagian?	dummy_name-289
+00081	acudir_hospital	Tengo una hospital el fecha, tengo que ir?	dummy_name-81
+00262	animales	Puede contagiar un mascota?	dummy_name-262
+00085	afecta-viejos-jovenes	A quienes afecta	dummy_name-85
+00126	aislamiento_casa	Puedo cocinar con coronavirus	dummy_name-126
+00116	aire	el coronavirus se transmite por aire	dummy_name-116
+00285	animales	¿Se puede contagiar mi mascota?	dummy_name-285
+00023	acudir_hospital	Cuando va a ser mi operación?	dummy_name-23
+00191	alimentos	Beber	dummy_name-191

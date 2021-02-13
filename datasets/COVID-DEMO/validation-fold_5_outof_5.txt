@@ -1,0 +1,62 @@
+00004	acudir_dentista	Puedo ir al dentista?	sample number 00004
+00009	acudir_dentista	dentista	sample number 00009
+00014	acudir_hospital	Quiero ir al hospital para trabajar la tarjeta de salud.	sample number 00014
+00019	acudir_hospital	hospital	sample number 00019
+00024	acudir_hospital	Asistencia a hospital	sample number 00024
+00029	acudir_hospital	Tengo una hospital	sample number 00029
+00034	acudir_hospital	Mi pregunta es la siguiente dentro de unas semanas me tengo que hacer una hospital para ver como va la celiaquía	sample number 00034
+00039	acudir_hospital	hospital?	sample number 00039
+00044	acudir_hospital	Tengo una hospital el fecha, debo ir?	sample number 00044
+00049	acudir_hospital	puedo llevar a mi menor al hospital?	sample number 00049
+00054	acudir_hospital	¿Puedo pedir cita a mi hospital?	sample number 00054
+00059	acudir_hospital	dónde me pueden hacer mis hospital?	sample number 00059
+00064	acudir_hospital	Puedo ir a hospital si me rompo la cadera	sample number 00064
+00069	acudir_hospital	Cuando ir a hospital	sample number 00069
+00074	acudir_hospital	hospital	sample number 00074
+00079	acudir_hospital	¿Debo ir al hospital?	sample number 00079
+00084	acudir_hospital	A que porcentaje debe bajar la saturación para ir al hospital	sample number 00084
+00089	afecta-viejos-jovenes	A quien afecta el coronavirus?	sample number 00089
+00094	afecta-viejos-jovenes	El nuevo coronavirus, ¿afecta solo a las personas de edad o también puede afectar a las más jóvenes?	sample number 00094
+00099	aire	aire acondicionado	sample number 00099
+00104	aire	Durante cuánto tiempo permanece el coronavirus suspendido en el aire antes de morir?	sample number 00104
+00109	aire	¿Por qué mantener una buena higiene de las vías respiratorias?	sample number 00109
+00114	aire	Se contagia por el aire?	sample number 00114
+00119	aire	¿Puedo contagiarme por el aire?	sample number 00119
+00124	aislamiento_casa	Medidas de aislamiento	sample number 00124
+00129	aislamiento_casa	aislamiento	sample number 00129
+00134	aislamiento_casa	Un aislado en  la habitación cuanto tiempo tiene que estar	sample number 00134
+00139	aislamiento_casa	Cómo preparar el lugar de aislamiento?	sample number 00139
+00144	aislamiento_casa	¿Que hago si tengo el coronavirus?	sample number 00144
+00149	aislamiento_casa	saludo. Mi cuñado enfermero fecha ha dado positivo. Tiene anosmia y disguesia. Se preguntan si tiene que limitar el contacto con el resto de la unidad familiar o al poder estar contagiados no hace falta más que el confinamiento?	sample number 00149
+00154	aislamiento_casa	¿Todo el mundo puede vivir con una persona aislada?	sample number 00154
+00159	aislamiento_casa	cuando salga del hospital tengo que estar en aislamiento o puedo mezclarme con la familia?	sample number 00159
+00164	aislamiento_casa	convivir con contagiados	sample number 00164
+00169	aislamiento_casa	¿Cómo afecta el aislamiento a mi familia?	sample number 00169
+00174	aislamiento_casa	Mi pareja tiene coronavirus, que hago?	sample number 00174
+00179	aislamiento_casa	mi mujer está enferma	sample number 00179
+00184	alimentos	vitamina D	sample number 00184
+00189	alimentos	suplementos vitamínicos	sample number 00189
+00194	alimentos	Una cerveza?	sample number 00194
+00199	alimentos	alimentación	sample number 00199
+00204	alimentos	Pautas para una buena alimentación	sample number 00204
+00209	alimentos	cocinar	sample number 00209
+00214	alimentos	dieta	sample number 00214
+00219	alta	alta médica	sample number 00219
+00224	alta	alta hospitalaria	sample number 00224
+00229	animales	Montar a caballo	sample number 00229
+00234	animales	mascota	sample number 00234
+00239	animales	Un tigre con coronavirus	sample number 00239
+00244	animales	Conejo mascota contagio	sample number 00244
+00249	animales	casos en mascota	sample number 00249
+00254	animales	contagios en animales	sample number 00254
+00259	animales	Tengo mascota	sample number 00259
+00264	animales	¿pueden infectarse las mascota?	sample number 00264
+00269	animales	llevar a mi mascota al mascota?	sample number 00269
+00274	animales	Se transmite a otros animales	sample number 00274
+00279	animales	Pueden los mascota morir de coronavirus?	sample number 00279
+00284	animales	¿Mi mascota me lo puede transmitir?	sample number 00284
+00289	animales	¿Los mascota lo contagian?	sample number 00289
+00294	animales	¿Se transmite a los mascota?	sample number 00294
+00299	animales	¿Transmiten la coronavirus los animales de mascota?	sample number 00299
+00304	animales	¿Me lo puede contagiar el mascota?	sample number 00304
+00309	animales	¿Hay peligro con los mosquitos?	sample number 00309

@@ -1,0 +1,40 @@
+{
+	"name": "MEMTEXT-SHORT",
+	"data_type": "token",
+	"unk_policy": "random",
+	"spell_corrector": null,
+	"embeddings_file": "cc.en.300.vec",
+	"embeddings_size": 300,
+	"embeddings_params":
+		{	
+			"dim": 300,
+			"finetune": false,
+			"noise": 0.15,
+			"dropout": 0.3
+		},
+	"encoder_params":
+		{
+			"dim": 50,
+			"layers": 1,
+			"dropout": 0.3,
+			"bidirectional": true
+
+		},
+	"attention_params":
+		{
+			"layers": 1,
+			"dropout": 0.3,
+			"activation": "tanh",
+			"context": false
+		},
+	"preprocessor": "remove_stopwords",
+	"batch_size": 32,
+	"lr": 1e-3,
+	"weight_decay": 0.0,
+	"patience": 5,
+	"min_change": 0.0,
+	"epochs": 300,
+	"base": 0.0,
+	"clip_norm": 1,
+	"seed": 1234
+}
