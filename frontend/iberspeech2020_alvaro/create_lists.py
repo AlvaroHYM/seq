@@ -113,34 +113,34 @@ def make_lists(samples, export_dir, counter=0, test=False):
 		if "dev-" in name:
 			name = name.replace('dev-', '')
 		vec = make_vec(sample[2])
-		#if name != "null":
+		if name != "null":
 			
-		# Uncomment for systems A and B
-		if i - 2 < 0 or program != get_name(samples[i-2][1]):
-			min2 = numpy.zeros(512)
-		else:
-			min2 = make_vec(samples[i-2][2])
+			# Uncomment for systems A and B
+			if i - 2 < 0 or program != get_name(samples[i-2][1]):
+				min2 = numpy.zeros(512)
+			else:
+				min2 = make_vec(samples[i-2][2])
 
-		if i - 1 < 0 or program != get_name(samples[i-1][1]):
-			min1 = numpy.zeros(512)
-		else:
-			min1 = make_vec(samples[i-1][2])
+			if i - 1 < 0 or program != get_name(samples[i-1][1]):
+				min1 = numpy.zeros(512)
+			else:
+				min1 = make_vec(samples[i-1][2])
 
-		if i + 1 >= len(samples) or program != get_name(samples[i+1][1]):
-			more1 = numpy.zeros(512)
-		else:
-			more1 = make_vec(samples[i+1][2])
+			if i + 1 >= len(samples) or program != get_name(samples[i+1][1]):
+				more1 = numpy.zeros(512)
+			else:
+				more1 = make_vec(samples[i+1][2])
 
-		if i + 2 >= len(samples) or program != get_name(samples[i+2][1]):
-			more2 = numpy.zeros(512)
-		else:
-			more2 = make_vec(samples[i+2][2])
+			if i + 2 >= len(samples) or program != get_name(samples[i+2][1]):
+				more2 = numpy.zeros(512)
+			else:
+				more2 = make_vec(samples[i+2][2])
 
 		mat = numpy.stack([min2, min1, vec, more1, more2])
 		datalist.append(('{:09d}'.format(counter),
-			name,
-			os.path.join(ROOT, export_dir, sample[1] + '.npy'),
-			sample[1]))
+				name,
+				os.path.join(ROOT, export_dir, sample[1] + '.npy'),
+				sample[1]))
 		numpy.save(os.path.join(ROOT, export_dir, sample[1]), mat)
 		# print(os.path.join(ROOT, export_dir, sample[1]),
 		# 	os.path.isfile(os.path.join(ROOT, export_dir, sample[1] + '.npy')))
