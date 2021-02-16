@@ -17,7 +17,7 @@ from rttm_converter import RttmConverter
 from environment import DATA_DIR
 from sklearn.model_selection import train_test_split
 
-ROOT = "./DATA/DATA/"
+ROOT = "./../../../../DATA-ALVARO/"
 print(os.path.isdir(ROOT))
 
 WINDOW_SIZE = 5
