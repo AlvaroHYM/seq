@@ -137,14 +137,14 @@ def make_lists(samples, export_dir, counter=0, test=False):
 				more2 = make_vec(samples[i+2][2])
 
 			mat = numpy.stack([min2, min1, vec, more1, more2])
-		datalist.append(('{:09d}'.format(counter),
+			datalist.append(('{:09d}'.format(counter),
 				name,
 				os.path.join(ROOT, export_dir, sample[1] + '.npy'),
 				sample[1]))
-		numpy.save(os.path.join(ROOT, export_dir, sample[1]), mat)
+			numpy.save(os.path.join(ROOT, export_dir, sample[1]), mat)
 		# print(os.path.join(ROOT, export_dir, sample[1]),
 		# 	os.path.isfile(os.path.join(ROOT, export_dir, sample[1] + '.npy')))
-		counter += 1
+			counter += 1
 	return datalist
 
 
