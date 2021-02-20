@@ -17,7 +17,7 @@ from rttm_converter import RttmConverter
 from environment import DATA_DIR
 from sklearn.model_selection import train_test_split
 
-ROOT = "./../../../DATA-ALVARO/"
+ROOT = "./../../DATA-ALVARO/"
 print(os.path.isdir(ROOT))
 
 WINDOW_SIZE = 5
@@ -97,7 +97,29 @@ def merge_rttm_xvec(dirnames):
 					out.append(('no-spkr', timestamp[1], timestamp[2]))
 			# break
 	return out
-
+def save_folds(folds, to_dir):
+    """
+        Save prepared lists of balanced folds datasets
+    Args:
+        folds: list of samples, labels and numbering
+        to_dir: str, output directory
+    """
+    os.makedirs(to_dir, exist_ok=True)
+    for f, fold in enumerate(folds):
+        train = []
+        val = []
+        test = []
+        [train.extend(i_fold) for i_fold in folds[:-2]]
+        val.extend(folds[-2])
+        test.extend(folds[-1])
+        folds += [folds.pop(0)]
+        filename = 'training-fold_{:d}_outof_{:d}.txt'.format(
+            int(f + 1), len(folds))
+        write_samples(os.path.join(to_dir, filename), train)
+        filename = filename.replace('training', 'validation')
+        write_samples(os.path.join(to_dir, filename), val)
+        filename = filename.replace('validation', 'test')
+        write_samples(os.path.join(to_dir, filename), test)
 
 def make_lists(samples, export_dir, counter=0, test=False):
 	"""
@@ -147,57 +169,46 @@ def make_lists(samples, export_dir, counter=0, test=False):
 			counter += 1
 	return datalist
 
-
 def _main_():
-	# Directory names where xvector files are stored
-	xvector_dirnames = ["dev", "enrollment-dev", "enrollment-test", "test"]
-	
-	# Intermediate enrollment sample list
-	train_samples = retrieve_samples(["enrollment-dev", "enrollment-test"])
-	print('Found {} train samples'.format(len(train_samples)))
+    # Directory names where xvector files are stored
+    xvector_dirnames = ["dev", "enrollment-dev", "enrollment-test", "test"]
 
-	number_count = 0
-	os.makedirs(os.path.join(ROOT, "seqs_C"), exist_ok=True)
-	train_list = make_lists(train_samples, 'seqs_C')
-	os.makedirs(os.path.join(DATA_DIR, "IBERSPEECH20"), exist_ok=True)
-	# write_samples(os.path.join(DATA_DIR, "IBERSPEECH20", "training_C.txt"),
-	# 	train_list)
+    # Intermediate enrollment sample list
+    train_samples = retrieve_samples(["enrollment-dev", "enrollment-test"])
+    print('Found {} enrolment-from samples'.format(len(train_samples)))
+    number_count = 0
+    os.makedirs(os.path.join(ROOT, "alvaro_seqs"), exist_ok=True)
+    train_list = make_lists(train_samples, 'alvaro_seqs')
+    os.makedirs(os.path.join(DATA_DIR, "IBERSPEECH20_alvaro"), exist_ok=True)
+    # Merge processed RTTM files -> names and xvector files
+    val_samples = merge_rttm_xvec(["dev"])
+    print('Found {} dev-from samples'.format(len(val_samples)))
+    val_list = make_lists(val_samples, 'alvaro_seqs', counter=len(train_list))
+    datalist = train_list + val_list
+    # train, val = train_test_split(datalist, test_size=0.3,
+    #   random_state=1234, stratify=[x[1] for x in datalist])
+    test_samples = merge_rttm_xvec(["test"])
+    print('Found {} test-from samples'.format(len(test_samples)))
+    test_list = make_lists(test_samples, 'alvaro_seqs',
+        counter=len(datalist), test=False)
+    datalist += test_list
+    df = pandas.DataFrame(datalist,
+        columns=["id", "label", "path", "token"])
+    # print(df)
+    if kfolds > 0:
+        folds = [[] for f in range(kfolds)]
+        for row, sample in tqdm(df.iterrows(), total=len(df)):
+            fold = row % kfolds
+            counter = '{:06d}'.format(row)
+            folds[fold].append((
+                counter,
+                sample["label"],
+                sample["path"],
+                sample["token"]))
+        save_folds(folds=folds,
+            to_dir=os.path.join(DATA_DIR, "IBERSPEECH20_alvaro"))
 
-	# Merge processed RTTM files -> names and xvector files
-	val_samples = merge_rttm_xvec(["dev"])
-	print('Found {} val samples'.format(len(val_samples)))
-	val_list = make_lists(val_samples, 'seqs_C', counter=len(train_list))
-	# write_samples(os.path.join(DATA_DIR, "IBERSPEECH20", "validation_C.txt"),
-	# 	val_list)
 
-	datalist = train_list + val_list
-	train, val = train_test_split(datalist, test_size=0.3,
-		random_state=1234, stratify=[x[1] for x in datalist])
-	write_samples(os.path.join(DATA_DIR, "IBERSPEECH20", "training_C.txt"),
-		train)
-	write_samples(os.path.join(DATA_DIR, "IBERSPEECH20", "validation_C.txt"),
-		val)
-
-	# test_samples = merge_rttm_xvec(["test"])
-	# print('Found {} test samples'.format(len(test_samples)))
-	# test_list = make_lists(test_samples, 'no_null', 
-	# 	counter=41145, test=True)
-	# # os.makedirs(os.path.join(DATA_DIR, 'IBERSPEECH20_nonull_2'))
-	# write_samples(os.path.join(DATA_DIR, "IBERSPEECH20_nonull", "test.txt"),
-	# 	test_list)
-
-	# # Reorganization of dev/val lists
-	# train_file = './datasets/IBERSPEECH20_nonull/training_A.txt'
-	# val_file = './datasets/IBERSPEECH20_nonull/validation_A.txt'
-	# train_df = pandas.read_csv(train_file, header=None, sep='\t')
-	# val_df = pandas.read_csv(val_file, header=None, sep='\t')
-	# df = pandas.concat([train_df, val_df], ignore_index=True)
-	# train_df, val_df = train_test_split(df, test_size=0.3,
-	# 	random_state=1234, stratify=df[1].values)
-	# train_df.to_csv('training.txt', sep='\t', index=None, header=False)
-	# val_df.to_csv('validation.txt', sep='\t', index=None, header=False)
-
-	
 
 
 
